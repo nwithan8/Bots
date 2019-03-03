@@ -1,5 +1,4 @@
-My bots:
-
+# My bots
 <a href="https://twitter.com/IRAMockBot">IRAMockBot</a>: A Twitter bot that uses Markov chains in combination with data from Twitter of tweets sent by accounts associated with the Russian Internet Research Agency to produce random fake tweets. Code: https://github.com/nwithan8/IRAMockBot
 
 <a href="https://twitter.com/RedditOoC">Reddit Out of Context</a>: A Twitter bot that pulls one minute's worth of new Reddit comments and tweets out a random one. Code: https://github.com/nwithan8/RedditOoC
@@ -12,8 +11,15 @@ My bots:
 
 <a href="https://www.reddit.com/user/MobileFixBot">MobileFixBot</a>: A Reddit bot that fixes R/subreddit into r/subreddit. Code: https://github.com/nwithan8/MobileFixBot
 
+PlexRecs: A Discord bot that offers movie and TV show recommendations from your Plex Media Server library. Code: https://github.com/nwithan8/PlexRecs
+
 <a href="https://discordapp.com/oauth2/authorize?client_id=501074195019726850&scope=bot">ESPN Probability Bot</a>: A Discord bot that can pull the Win Probability of an NCAA football game from ESPN's website. Code: Coming soon.
 
 BBMHelper: A Slack bot that can assist with my Plex Media Server, offering search results, library sizes, popular items and suggestions. Code: Coming soon.
+
+# Assisting
+Mellow: A Discord bot to interact with Ombi, Tautulli, Sonarr and Radarr. Rewriting PlexRecs to integrate. Code: https://github.com/nwithan8/Mellow
+
+CFBRef: Referee bot operating games in r/FakeCollegeFootball. Helped incorporate images displaying the plays on a virtual field. Code: https://github.com/nwithan8/CFBRef
 
 More to come!

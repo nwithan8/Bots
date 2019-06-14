@@ -13,14 +13,13 @@
 
 <a href="https://www.reddit.com/user/MobileFixBot">MobileFixBot</a>: A Reddit bot that fixes R/subreddit into r/subreddit. Code: https://github.com/nwithan8/MobileFixBot
 
-ComicStripsBot: A Reddit bot that crossposts "hot" posts from r/Comics to r/ComicStrips. Code: https://github.com/nwithan8/ComicStripBot
+<a href="https://www.reddit.com/user/ComicStripsBot">ComicStripsBot</a>: A Reddit bot that crossposts "hot" posts from r/Comics to r/ComicStrips. Code: https://github.com/nwithan8/ComicStripBot
 
 PlexRecs: A Discord bot that offers movie and TV show recommendations from your Plex Media Server library. Code: https://github.com/nwithan8/PlexRecs
 
 <a href="https://discordapp.com/oauth2/authorize?client_id=501074195019726850&scope=bot">ESPN Probability Bot</a>: A Discord bot that can pull the Win Probability of an NCAA football game from ESPN's website. Code: Coming soon.
 
-BBMHelper: A Slack bot that can assist with my Plex Media Server, offering search results, library sizes, popular items and suggestions. Code: Coming soon.
-
+BBMHelper: A Slack bot that can assist with my Plex Media Server, offering search results, library sizes, popular items and suggestions. No longer maintained; suggestion feature ported to PlexRecs bot.
 # Assisting
 Mellow: A Discord bot to interact with Ombi, Tautulli, Sonarr and Radarr. Rewriting PlexRecs to integrate. Code: https://github.com/nwithan8/Mellow
 

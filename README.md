@@ -23,6 +23,6 @@ BBMHelper: A Slack bot that can assist with my Plex Media Server, offering searc
 # Assisting
 Mellow: A Discord bot to interact with Ombi, Tautulli, Sonarr and Radarr. Rewriting PlexRecs to integrate. Code: https://github.com/nwithan8/Mellow
 
-CFBRef: Referee bot operating games in r/FakeCollegeFootball. Helped incorporate images displaying the plays on a virtual field. Code: https://github.com/nwithan8/CFBRef
+<a href="https://www.reddit.com/r/FakeCollegeFootball/">CFBRef</a>: Referee bot operating games in r/FakeCollegeFootball. Helped incorporate images displaying the plays on a virtual field. Code: https://github.com/nwithan8/CFBRef
 
 More to come!

@@ -19,6 +19,8 @@ PlexRecs: A Discord bot that offers movie and TV show recommendations from your 
 
 <a href="https://discordapp.com/oauth2/authorize?client_id=501074195019726850&scope=bot">ESPN Probability Bot</a>: A Discord bot that can pull the Win Probability of an NCAA football game from ESPN's website. Code: Coming soon.
 
+PlexDiscordManager: A Discord bot that can add, remove and manage users to a Plex Media Server. Code: https://github.com/nwithan8/PlexDiscordManager
+
 BBMHelper: A Slack bot that can assist with my Plex Media Server, offering search results, library sizes, popular items and suggestions. No longer maintained; suggestion feature ported to PlexRecs bot.
 # Assisting
 Mellow: A Discord bot to interact with Ombi, Tautulli, Sonarr and Radarr. Rewriting PlexRecs to integrate. Code: https://github.com/nwithan8/Mellow
